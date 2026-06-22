@@ -5,7 +5,7 @@ Trường: **Trường Đại học Khoa học Tự nhiên, ĐHQGHN (VNU-HUS)**
 
 Giảng viên: **Đỗ Anh Tuấn**
 
-Sinh viên thực hiện: Nguyễn Thị Phương Anh, Nguyễn Hoàng Đức, Lại Huy Hoàng, Nguyễn Bá Tiến Phát, Nguyễn Hoàng Linh, Nguyễn Trọng Tùng
+Sinh viên thực hiện: Nguyễn Thị Phương Anh (14.29%), Nguyễn Hoàng Đức (14.29%), Lại Huy Hoàng (14.29%), Nguyễn Bá Tiến Phát (14.29%), Nguyễn Hoàng Linh (14.29%), Nguyễn Trọng Tùng (14.29%), Lã Quốc Huy (14.29%)
 
 Slide canva nhóm 2: [https://canva.link/5fj49innet88c76](https://canva.link/5cxogoodbwt93l6)
 
