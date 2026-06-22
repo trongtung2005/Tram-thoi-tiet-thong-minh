@@ -1,7 +1,16 @@
-#XÂY DỰNG HỆ THỐNG QUAN TRẮC VÀ DỰ BÁO THỜI TIẾT IOT
+#Trạm quan trắc thời tiết IoT
+Dự án cuối kỳ của môn học: **Thực hành lập trình nhúng PHy3625**
+
+Trường: **Trường Đại học Khoa học Tự nhiên, ĐHQGHN (VNU-HUS)**
+
+Giảng viên: **Đỗ Anh Tuấn**
+
+Sinh viên thực hiện: Nguyễn Thị Phương Anh, Nguyễn Hoàng Đức, Lại Huy Hoàng, Nguyễn Bá Tiến Phát, Nguyễn Hoàng Linh, Nguyễn Trọng Tùng
+
+Slide canva nhóm 2: [https://canva.link/5fj49innet88c76](https://canva.link/5cxogoodbwt93l6)
 
 ## 📌 Giới thiệu dự án
-Dự án tập trung nghiên cứu, thiết kế và chế tạo một trạm thời tiết nhằm tự động hóa quy trình quan trắc khí tượng. Hệ thống kết hợp khả năng xử lý phần cứng tối ưu ở lớp dưới (bare-metal), giải pháp truyền thông không dây linh hoạt (Gateway) và phân tích thông minh dựa trên mô hình toán học để đưa ra các kịch bản dự báo thời tiết ngắn hạn.
+Dự án tập trung nghiên cứu, thiết kế và chế tạo một trạm thời tiết nhằm tự động hóa quy trình quan trắc khí tượng. Hệ thống kết hợp khả năng xử lý phần cứng tối ưu ở lớp dưới, giải pháp truyền thông không dây linh hoạt và phân tích thông minh dựa trên mô hình toán học để đưa ra các kịch bản dự báo thời tiết ngắn hạn.
 
 Bài toán khí tượng được tiếp cận dưới dạng **hồi quy tuyến tính có kiểm soát thành phần phạt (Ridge Regression)** nhằm giải quyết triệt để hiện tượng đa cộng tuyến của dữ liệu khí tượng bề mặt.
 
