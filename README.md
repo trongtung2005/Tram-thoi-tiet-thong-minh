@@ -8,6 +8,7 @@ Giảng viên: **Đỗ Anh Tuấn**
 Sinh viên thực hiện: Nguyễn Thị Phương Anh (14.29%), Nguyễn Hoàng Đức (14.29%), Lại Huy Hoàng (14.29%), Nguyễn Bá Tiến Phát (14.29%), Nguyễn Hoàng Linh (14.29%), Nguyễn Trọng Tùng (14.29%), Lã Quốc Huy (14.29%)
 
 Slide canva nhóm 3: [https://canva.link/5fj49innet88c76](https://canva.link/5cxogoodbwt93l6)
+
 Video demo: https://drive.google.com/drive/folders/1xwO94YxRegKoCVPFSSGfgeNssYgu-aEq?usp=sharing
 
 ## 📌 Giới thiệu dự án
