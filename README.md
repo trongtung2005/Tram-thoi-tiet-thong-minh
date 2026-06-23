@@ -7,7 +7,8 @@ Giảng viên: **Đỗ Anh Tuấn**
 
 Sinh viên thực hiện: Nguyễn Thị Phương Anh (14.29%), Nguyễn Hoàng Đức (14.29%), Lại Huy Hoàng (14.29%), Nguyễn Bá Tiến Phát (14.29%), Nguyễn Hoàng Linh (14.29%), Nguyễn Trọng Tùng (14.29%), Lã Quốc Huy (14.29%)
 
-Slide canva nhóm 2: [https://canva.link/5fj49innet88c76](https://canva.link/5cxogoodbwt93l6)
+Slide canva nhóm 3: [https://canva.link/5fj49innet88c76](https://canva.link/5cxogoodbwt93l6)
+Video demo: https://drive.google.com/drive/folders/1xwO94YxRegKoCVPFSSGfgeNssYgu-aEq?usp=sharing
 
 ## 📌 Giới thiệu dự án
 Dự án tập trung nghiên cứu, thiết kế và chế tạo một trạm thời tiết nhằm tự động hóa quy trình quan trắc khí tượng. Hệ thống kết hợp khả năng xử lý phần cứng tối ưu ở lớp dưới, giải pháp truyền thông không dây linh hoạt và phân tích thông minh dựa trên mô hình toán học để đưa ra các kịch bản dự báo thời tiết ngắn hạn.
